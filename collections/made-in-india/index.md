@@ -44,6 +44,7 @@ items:
  - krayin/laravel-crm
  - ajeetdsouza/zoxide
  - Jaysmito101/TerraForge3D
+ - chandrikadeb7/Face-Mask-Detection
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
